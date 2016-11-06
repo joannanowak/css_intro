@@ -1,0 +1,82 @@
+
+#menu-item{
+	position: fixed;
+	width: 100%;
+	top:0;
+	background-color: #222;
+	text-align: center; 
+	list-style-type: none;
+	z-index: 2;
+}
+
+ul{
+	margin: 0;
+	padding: 0;	
+}
+	
+li{
+	display: inline-block;
+	padding: 25px;	
+}
+
+
+a{
+	color: white;
+	text-decoration: none;
+	
+}
+
+body{
+	margin: 0;
+	font-family: 'Lato', sans-serif;
+	
+	
+}
+
+#main-header-text{
+	position: absolute;
+	font-family: 'Lato', sans-serif;
+	font-variant:small-caps;
+	top: 50%;
+	left: 30%;
+	color: white;
+	font-size: 5vmax;
+	z-index: 1;
+	
+}
+
+#header img{
+	width: 100%;
+	height: auto;
+
+}
+
+#about{
+	background-color: white;
+	
+}
+
+.about-header{
+	text-align: center;
+	
+}
+
+p{
+	text-align: center;
+}
+
+footer {
+	background-color: #222;
+	padding: 20px;
+}
+
+#contact-header{
+	text-align: center;
+	color: white;
+
+}
+
+#contact-content{
+	text-align: center;
+	color: white;
+}

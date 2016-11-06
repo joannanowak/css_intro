@@ -42,6 +42,7 @@ body{
 	color: white;
 	font-size: 5vmax;
 	z-index: 1;
+	text-transform: uppercase;
 	
 }
 
@@ -50,7 +51,9 @@ body{
 	height: auto;
 
 }
-
+#header {
+	position: relative;
+}
 #about{
 	background-color: white;
 	

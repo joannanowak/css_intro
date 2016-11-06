@@ -26,6 +26,7 @@ a{
 	
 }
 
+
 body{
 	margin: 0;
 	font-family: 'Lato', sans-serif;
@@ -82,4 +83,14 @@ footer {
 #contact-content{
 	text-align: center;
 	color: white;
+	font-style: normal;
 }
+
+a:hover{
+	color: #999;
+}
+/*
+
+footer#contact address#contact-content a:hover {
+	color: #999;
+}*/
